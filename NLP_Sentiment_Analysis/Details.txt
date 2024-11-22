@@ -1,0 +1,5 @@
+Took a course on how to create NLP model for sentiment analysis from HuggingFace to brush up on Transformers and Evaluation.
+
+Learnt:
+ that cleaning text won't make a difference for transformer accuracy
+ Using a unique way to check the accuracy of model
